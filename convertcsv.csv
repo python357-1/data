@@ -1,0 +1,392 @@
+date,description,type,amount,current_balance,status,id,category
+2023-05-30,DISCOVER,Direct Payment,-57,220.09,Posted,0,Credit
+2023-05-30,PAYPAL,Direct Payment,-41,277.09,Posted,1,Credit
+2023-05-29,To Savings - 1273,Withdrawal,-250,318.09,Posted,2,Savings
+2023-05-29,Roundup *eBay O*12-10106-29387,Roundup,-0.39,568.09,Posted,3,Roundups
+2023-05-29,Roundup *ROSAS CAFE & TORTILLA,Roundup,-0.97,568.48,Posted,4,Roundups
+2023-05-29,eBay O*12-10106-29387,Debit Card,-60.61,569.45,Posted,5,Fun Money
+2023-05-29,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,630.06,Posted,6,Roundups
+2023-05-29,Roundup *FIREHOUSE SUBS 0400 EC,Roundup,-0.16,630.44,Posted,7,Roundups
+2023-05-29,ROSAS CAFE & TORTILLA,Debit Card,-10.03,630.6,Posted,8,Food
+2023-05-29,Roundup *IHOP 1946 OLO,Roundup,-0.54,640.63,Posted,9,Roundups
+2023-05-29,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,641.17,Posted,10,Food
+2023-05-29,Roundup *WINGSTOP 1259 OLO,Roundup,-0.64,650.79,Posted,11,Roundups
+2023-05-29,FIREHOUSE SUBS 0400 EC,Debit Card,-13.84,651.43,Posted,12,Food
+2023-05-29,IHOP 1946 OLO,Debit Card,-15.46,665.27,Posted,13,Food
+2023-05-29,WINGSTOP 1259 OLO,Debit Card,-15.36,680.73,Posted,14,Food
+2023-05-29,Roundup *eBay O*12-10106-29387,Roundup,-0.75,696.09,Posted,15,Roundups
+2023-05-29,eBay O*12-10106-29387,Debit Card,-541.25,696.84,Posted,16,Fun Money
+2023-05-28,Roundup *WAL-MART #5080,Roundup,-0.25,1238.09,Posted,17,Roundups
+2023-05-28,WAL-MART #5080,Debit Card,-12.75,1238.34,Posted,18,Fun Money
+2023-05-28,Roundup *SAMS CLUB SAM'S Club,Roundup,-0.49,1251.09,Posted,19,Roundups
+2023-05-28,SAMS CLUB SAM'S Club,Debit Card,-43.51,1251.58,Posted,20,Gas
+2023-05-28,Roundup *AUTOZONE  6269 8553 DAV,Roundup,-0.19,1295.09,Posted,21,Roundups
+2023-05-28,AUTOZONE  6269 8553 DAV,Debit Card,-64.81,1295.28,Posted,22,Car Money
+2023-05-28,Roundup *MCDONALD'S F25720,Roundup,-0.4,1360.09,Posted,23,Roundups
+2023-05-28,MCDONALD'S F25720,Debit Card,-10.60,1360.49,Posted,24,Food
+2023-05-27,Roundup *AMZN MKTP US AMZN.COM/,Roundup,-0.28,1371.09,Posted,25,Roundups
+2023-05-27,Roundup *AMZN Mktp US,Roundup,-0.12,1371.37,Posted,26,Roundups
+2023-05-27,THE HOME DEPOT #6533,Debit Card,54.09,1371.49,Posted,27,Fun Money
+2023-05-27,PAYPAL *GoFundMe Chud,Debit Card,-29.00,1317.4,Posted,28,Donations
+2023-05-27,Roundup *CHIPOTLE ONLINE,Roundup,-0.56,1346.4,Posted,29,Roundups
+2023-05-27,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.65,1346.96,Posted,30,Roundups
+2023-05-27,Roundup *MCDONALD'S F39330,Roundup,-0.43,1347.61,Posted,31,Roundups
+2023-05-27,AMZN Mktp US,Debit Card,-12.88,1348.04,Posted,32,Fun Money
+2023-05-27,AMZN MKTP US AMZN.COM/,Debit Card,-9.72,1360.92,Posted,33,Fun Money
+2023-05-27,CHIPOTLE ONLINE,Debit Card,-7.44,1370.64,Posted,34,Food
+2023-05-27,ANDY'S FROZEN CUSTARD,Debit Card,-9.35,1378.08,Posted,35,Food
+2023-05-27,MCDONALD'S F39330,Debit Card,-7.57,1387.43,Posted,36,Food
+2023-05-26,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.78,1395,Posted,37,Roundups
+2023-05-26,Roundup *TST* BURNING RICE HURS,Roundup,-0.06,1395.78,Posted,38,Roundups
+2023-05-26,ANDY'S FROZEN CUSTARD,Debit Card,-8.22,1395.84,Posted,39,Food
+2023-05-26,TST* BURNING RICE HURS,Debit Card,-12.94,1404.06,Posted,40,Food
+2023-05-25,Roundup *THE HOME DEPOT #6533,Roundup,-0.38,1417,Posted,41,Roundups
+2023-05-25,THE HOME DEPOT #6533,Debit Card,-8.62,1417.38,Posted,42,Fun Money
+2023-05-25,TLC,Direct Deposit,739.42,1426,Posted,43,Income
+2023-05-25,PAYPAL *GoFundMe Emma,Debit Card,-50.00,686.58,Posted,44,Donations
+2023-05-25,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.65,736.58,Posted,45,Roundups
+2023-05-25,Roundup *PAPA MURPHY'S TX008 OL,Roundup,-0.05,737.23,Posted,46,Roundups
+2023-05-25,Roundup *MCDONALD'S F25720,Roundup,-0.44,737.28,Posted,47,Roundups
+2023-05-25,Roundup *MCDONALD'S F25720,Roundup,-0.4,737.72,Posted,48,Roundups
+2023-05-25,ANDY'S FROZEN CUSTARD,Debit Card,-9.35,738.12,Posted,49,Food
+2023-05-25,PAPA MURPHY'S TX008 OL,Debit Card,-21.95,747.47,Posted,50,Food
+2023-05-25,MCDONALD'S F25720,Debit Card,-7.56,769.42,Posted,51,Food
+2023-05-25,MCDONALD'S F25720,Debit Card,-10.60,776.98,Posted,52,Food
+2023-05-24,Roundup *Amazon Prime,Roundup,-0.77,787.58,Posted,53,Roundups
+2023-05-24,Roundup *STEAM PURCHASE,Roundup,-0.61,788.35,Posted,54,Roundups
+2023-05-24,Roundup *McDonalds 25720,Roundup,-0.63,788.96,Posted,55,Roundups
+2023-05-24,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.65,789.59,Posted,56,Roundups
+2023-05-24,Roundup *ROSAS CAFE & TORTILLA,Roundup,-0.51,790.24,Posted,57,Roundups
+2023-05-24,Roundup *PEI WEI - 0244 HURST A,Roundup,-0.78,790.75,Posted,58,Roundups
+2023-05-24,Roundup *TST**TST* Red Hot & Bl,Roundup,-0.73,791.53,Posted,59,Roundups
+2023-05-24,Amazon Prime,Debit Card,-16.23,792.26,Posted,60,Subscriptions
+2023-05-24,STEAM PURCHASE,Debit Card,-18.39,808.49,Posted,61,Fun Money
+2023-05-24,McDonalds 25720,Debit Card,-10.37,826.88,Posted,62,Food
+2023-05-24,ANDY'S FROZEN CUSTARD,Debit Card,-9.35,837.25,Posted,63,Food
+2023-05-24,ROSAS CAFE & TORTILLA,Debit Card,-10.49,846.6,Posted,64,Food
+2023-05-24,PEI WEI - 0244 HURST A,Debit Card,-16.22,857.09,Posted,65,Food
+2023-05-24,TST**TST* Red Hot & Bl,Debit Card,-21.27,873.31,Posted,66,Food
+2023-05-23,Roundup *SAMSCLUB #8268,Roundup,-0.26,894.58,Posted,67,Roundups
+2023-05-23,SAMSCLUB #8268,Debit Card,-46.74,894.84,Posted,68,Gas
+2023-05-23,Roundup *Amazon.com,Roundup,-0.75,941.58,Posted,69,Roundups
+2023-05-23,Roundup *RAISING CANES 0087,Roundup,-0.75,942.33,Posted,70,Roundups
+2023-05-23,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.16,943.08,Posted,71,Roundups
+2023-05-23,Amazon.com,Debit Card,-102.25,943.24,Posted,72,Fun Money
+2023-05-23,RAISING CANES 0087,Debit Card,-10.25,1045.49,Posted,73,Food
+2023-05-23,ANDY'S FROZEN CUSTARD,Debit Card,-9.84,1055.74,Posted,74,Food
+2023-05-22,Roundup *AMZN Mktp US,Roundup,-0.19,1065.58,Posted,75,Roundups
+2023-05-22,Roundup *SHAKE SHACK - 1241A,Roundup,-0.76,1065.77,Posted,76,Roundups
+2023-05-22,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,1066.53,Posted,77,Roundups
+2023-05-22,Roundup *PANERA BREAD #600925,Roundup,-0.56,1066.91,Posted,78,Roundups
+2023-05-22,AMZN Mktp US,Debit Card,-128.81,1067.47,Posted,79,Fun Money
+2023-05-22,SHAKE SHACK - 1241A,Debit Card,-26.24,1196.28,Posted,80,Food
+2023-05-22,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,1222.52,Posted,81,Food
+2023-05-22,PANERA BREAD #600925,Debit Card,-11.44,1232.14,Posted,82,Food
+2023-05-21,Roundup *THE HOME DEPOT #6533,Roundup,-0.91,1243.58,Posted,83,Roundups
+2023-05-21,THE HOME DEPOT #6533,Debit Card,-54.09,1244.49,Posted,84,Fun Money
+2023-05-21,Roundup *AMAZON.COM AMZN.COM/BI,Roundup,-0.04,1298.58,Posted,85,Roundups
+2023-05-21,Roundup *AMZN MKTP US AMZN.COM/,Roundup,-0.42,1298.62,Posted,86,Roundups
+2023-05-21,Roundup *ROSAS CAFE & TORTILLA,Roundup,-0.97,1299.04,Posted,87,Roundups
+2023-05-21,Roundup *MCDONALD'S F25720,Roundup,-0.2,1300.01,Posted,88,Roundups
+2023-05-21,Roundup *CHILI'S TARRANT PKWY,Roundup,-0.51,1300.21,Posted,89,Roundups
+2023-05-21,Roundup *BRILLIANT.ORG - EDU,Roundup,-0.95,1300.72,Posted,90,Roundups
+2023-05-21,AMZN MKTP US AMZN.COM/,Debit Card,-7.58,1301.67,Posted,91,Fun Money
+2023-05-21,AMAZON.COM AMZN.COM/BI,Debit Card,-12.96,1309.25,Posted,92,Fun Money
+2023-05-21,ROSAS CAFE & TORTILLA,Debit Card,-10.03,1322.21,Posted,93,Food
+2023-05-21,MCDONALD'S F25720,Debit Card,-6.80,1332.24,Posted,94,Food
+2023-05-21,CHILI'S TARRANT PKWY,Debit Card,-22.49,1339.04,Posted,95,Food
+2023-05-21,BRILLIANT.ORG - EDU,Debit Card,-27.05,1361.53,Posted,96,Subscriptions
+2023-05-21,Roundup *PAYPAL *NOSTARCHPRE,Roundup,-0.06,1388.58,Posted,97,Roundups
+2023-05-21,PAYPAL *NOSTARCHPRE,Debit Card,-53.94,1388.64,Posted,98,Fun Money
+2023-05-20,Roundup *Amazon.com,Roundup,-0.7,1442.58,Posted,99,Roundups
+2023-05-20,Roundup *ZAXBY'S #58903,Roundup,-0.54,1443.28,Posted,100,Roundups
+2023-05-20,Roundup *MCDONALD'S F25720,Roundup,-0.94,1443.82,Posted,101,Roundups
+2023-05-20,Roundup *TST**TST* Red Hot & Bl,Roundup,-0.46,1444.76,Posted,102,Roundups
+2023-05-20,Roundup *QT 968 INSIDE,Roundup,-0.67,1445.22,Posted,103,Roundups
+2023-05-20,Amazon.com,Debit Card,-17.30,1445.89,Posted,104,Fun Money
+2023-05-20,ZAXBY'S #58903,Debit Card,-15.46,1463.19,Posted,105,Food
+2023-05-20,MCDONALD'S F25720,Debit Card,-10.06,1478.65,Posted,106,Food
+2023-05-20,TST**TST* Red Hot & Bl,Debit Card,-29.54,1488.71,Posted,107,Food
+2023-05-20,QT 968 INSIDE,Debit Card,-4.33,1518.25,Posted,108,Food
+2023-05-19,Roundup *MCDONALD'S F25720,Roundup,-0.4,1522.58,Posted,109,Roundups
+2023-05-19,PAYPAL *SACA STORE,Debit Card,-43.00,1522.98,Posted,110,Fun Money
+2023-05-19,MCDONALD'S F25720,Debit Card,-10.60,1565.98,Posted,111,Food
+2023-05-19,UNUSUAL WHALES,Debit Card,-48.00,1576.58,Posted,112,Subscriptions
+2023-05-18,Roundup *HARBOR FREIGHT TOOLS,Roundup,-0.19,1624.58,Posted,113,Roundups
+2023-05-18,HARBOR FREIGHT TOOLS,Debit Card,-10.81,1624.77,Posted,114,Fun Money
+2023-05-18,TLC,Direct Deposit,739.42,1635.58,Posted,115,Income
+2023-05-18,Roundup *CVS/PHARM 10487--1305,Roundup,-0.21,896.16,Posted,116,Roundups
+2023-05-18,CVS/PHARM 10487--1305,Debit Card,-18.79,896.37,Posted,117,Medicine
+2023-05-18,Roundup *MCDONALD'S F18099,Roundup,-0.28,915.16,Posted,118,Roundups
+2023-05-18,Roundup *MCDONALD'S F25720,Roundup,-0.4,915.44,Posted,119,Roundups
+2023-05-18,MCDONALD'S F18099,Debit Card,-6.72,915.84,Posted,120,Food
+2023-05-18,MCDONALD'S F25720,Debit Card,-10.60,922.56,Posted,121,Food
+2023-05-18,Roundup *KTA REBILLS,Roundup,-0.95,933.16,Posted,122,Roundups
+2023-05-18,KTA REBILLS,Debit Card,-25.05,934.11,Posted,123,Travel
+2023-05-17,Roundup *THE HOME DEPOT #6533,Roundup,-0.37,959.16,Posted,124,Roundups
+2023-05-17,THE HOME DEPOT #6533,Debit Card,-48.63,959.53,Posted,125,Fun Money
+2023-05-17,Roundup *STEAM PURCHASE,Roundup,-0.77,1008.16,Posted,126,Roundups
+2023-05-17,Roundup *MCDONALD'S F209,Roundup,-0.82,1008.93,Posted,127,Roundups
+2023-05-17,Roundup *CHIPOTLE ONLINE,Roundup,-0.04,1009.75,Posted,128,Roundups
+2023-05-17,STEAM PURCHASE,Debit Card,-16.23,1009.79,Posted,129,Fun Money
+2023-05-17,MCDONALD'S F209,Debit Card,-6.18,1026.02,Posted,130,Food
+2023-05-17,CHIPOTLE ONLINE,Debit Card,-11.96,1032.2,Posted,131,Food
+2023-05-16,Roundup *MURPHY EXPRESS,Roundup,-0.52,1044.16,Posted,132,Roundups
+2023-05-16,MURPHY EXPRESS,Debit Card,-43.48,1044.68,Posted,133,Gas
+2023-05-16,Roundup *Grover FLEX,Roundup,-0.11,1088.16,Posted,134,Roundups
+2023-05-16,Roundup *CHIPOTLE ONLINE,Roundup,-0.43,1088.27,Posted,135,Roundups
+2023-05-16,Roundup *CULVERS OLO SIOUX CITY,Roundup,-0.63,1088.7,Posted,136,Roundups
+2023-05-16,Roundup *PERKINS RESTAURANT,Roundup,-0.82,1089.33,Posted,137,Roundups
+2023-05-16,Grover FLEX,Debit Card,-53.89,1090.15,Posted,138,Fun Money
+2023-05-16,CHIPOTLE ONLINE,Debit Card,-15.57,1144.04,Posted,139,Food
+2023-05-16,CULVERS OLO SIOUX CITY,Debit Card,-7.37,1159.61,Posted,140,Food
+2023-05-16,PERKINS RESTAURANT,Debit Card,-17.18,1166.98,Posted,141,Food
+2023-05-16,Mobile Check Deposit,Check Deposit,500,1184.16,Posted,142,Income
+2023-05-16,Mobile Check Deposit,Check Deposit,430,684.16,Posted,143,Income
+2023-05-15,Roundup *LOVE'S #213,Roundup,-0.58,254.16,Posted,144,Roundups
+2023-05-15,LOVE'S #213,Debit Card,-33.42,254.74,Posted,145,Gas
+2023-05-15,Roundup *NOODLES & CO 968,Roundup,-0.54,288.16,Posted,146,Roundups
+2023-05-15,NOODLES & CO 968,Debit Card,-11.46,288.7,Posted,147,Food
+2023-05-15,Roundup *SAMS CLUB SAM'S Club,Roundup,-0.01,300.16,Posted,148,Roundups
+2023-05-15,SAMS CLUB SAM'S Club,Debit Card,-18.99,300.17,Posted,149,Gas
+2023-05-15,Roundup *SAPP BROS TRAVEL CENTE,Roundup,-0.26,319.16,Posted,150,Roundups
+2023-05-15,SAPP BROS TRAVEL CENTE,Debit Card,-20.74,319.42,Posted,151,Gas
+2023-05-15,Roundup *SAMSCLUB #6432,Roundup,-0.81,340.16,Posted,152,Roundups
+2023-05-15,SAMSCLUB #6432,Debit Card,-19.19,340.97,Posted,153,Gas
+2023-05-15,Roundup *CASEYS  STORE 39 1409 H,Roundup,-0.62,360.16,Posted,154,Roundups
+2023-05-15,CASEYS  STORE 39 1409 H,Debit Card,-4.38,360.78,Posted,155,Food
+2023-05-15,Roundup *MCDONALD'S F209,Roundup,-0.47,365.16,Posted,156,Roundups
+2023-05-15,Roundup *CULVERS OF SIOUX CITY,Roundup,-0.54,365.63,Posted,157,Roundups
+2023-05-15,Roundup *TST* HUHOT MONGOLIAN G,Roundup,-0.34,366.17,Posted,158,Roundups
+2023-05-15,SUNNYBROOK SHINE LLC,Debit Card,-12.00,366.51,Posted,159,Car Money
+2023-05-15,MCDONALD'S F209,Debit Card,-11.53,378.51,Posted,160,Food
+2023-05-15,CULVERS OF SIOUX CITY,Debit Card,-10.46,390.04,Posted,161,Food
+2023-05-15,TST* HUHOT MONGOLIAN G,Debit Card,-25.66,400.5,Posted,162,Food
+2023-05-14,Roundup *PAYPAL *CUROLOGYINC,Roundup,-0.44,426.16,Posted,163,Roundups
+2023-05-14,Roundup *MCDONALD'S F11387,Roundup,-0.76,426.6,Posted,164,Roundups
+2023-05-14,PAYPAL *CUROLOGYINC,Debit Card,-93.56,427.36,Posted,165,Subscriptions
+2023-05-14,MCDONALD'S F11387,Debit Card,-11.24,520.92,Posted,166,Food
+2023-05-13,Roundup *SAMS CLUB SAM'S Club,Roundup,-0.54,532.16,Posted,167,Roundups
+2023-05-13,SAMS CLUB SAM'S Club,Debit Card,-32.46,532.7,Posted,168,Gas
+2023-05-13,Roundup *WM SUPERC Wal-Mart Sup,Roundup,-0.37,565.16,Posted,169,Roundups
+2023-05-13,WM SUPERC Wal-Mart Sup,Debit Card,-9.63,565.53,Posted,170,Fun Money
+2023-05-13,Roundup *BEST BUY      00007922,Roundup,-0.75,575.16,Posted,171,Roundups
+2023-05-13,BEST BUY      00007922,Debit Card,-65.25,575.91,Posted,172,Fun Money
+2023-05-13,Roundup *APPLE.COM/BILL,Roundup,-0.71,641.16,Posted,173,Roundups
+2023-05-13,Roundup *MCDONALD'S F25720,Roundup,-0.4,641.87,Posted,174,Roundups
+2023-05-13,APPLE.COM/BILL,Debit Card,-43.29,642.27,Posted,175,Subscriptions
+2023-05-13,MCDONALD'S F25720,Debit Card,-10.60,685.56,Posted,176,Food
+2023-05-12,Roundup *CASEYS #1752,Roundup,-0.19,696.16,Posted,177,Roundups
+2023-05-12,CASEYS #1752,Debit Card,-21.81,696.35,Posted,178,Gas
+2023-05-12,Roundup *CASEYS #1752 2208 J ST,Roundup,-0.03,718.16,Posted,179,Roundups
+2023-05-12,CASEYS #1752 2208 J ST,Debit Card,-6.97,718.19,Posted,180,Gas
+2023-05-12,KICKS 66,Debit Card,-35.00,725.16,Posted,181,Gas
+2023-05-12,Roundup *LOVE'S #865,Roundup,-0.47,760.16,Posted,182,Roundups
+2023-05-12,LOVE'S #865,Debit Card,-16.53,760.63,Posted,183,Gas
+2023-05-12,Roundup *Love's #865,Roundup,-0.3,777.16,Posted,184,Roundups
+2023-05-12,Love's #865,Debit Card,-39.70,777.46,Posted,185,Gas
+2023-05-12,Roundup *BUC-EE'S #37 15901 N F,Roundup,-0.97,817.16,Posted,186,Roundups
+2023-05-12,BUC-EE'S #37 15901 N F,Debit Card,-24.03,818.13,Posted,187,Gas
+2023-05-12,Roundup *SAMS CLUB SAM'S Club,Roundup,-0.24,842.16,Posted,188,Roundups
+2023-05-12,SAMS CLUB SAM'S Club,Debit Card,-17.76,842.4,Posted,189,Gas
+2023-05-11,TLC,Direct Deposit,739.42,860.16,Posted,190,Income
+2023-05-11,Roundup *MCDONALD'S F25720,Roundup,-0.4,120.74,Posted,191,Roundups
+2023-05-11,Roundup *PEI WEI - 0244 HURST A,Roundup,-0.78,121.14,Posted,192,Roundups
+2023-05-11,MCDONALD'S F25720,Debit Card,-10.60,121.92,Posted,193,Food
+2023-05-11,PEI WEI - 0244 HURST A,Debit Card,-16.22,132.52,Posted,194,Food
+2023-05-10,Roundup *AMZN MKTP US AMZN.COM/,Roundup,-0.8,148.74,Posted,195,Roundups
+2023-05-10,Roundup *STEAM PURCHASE,Roundup,-0.36,149.54,Posted,196,Roundups
+2023-05-10,Roundup *MCDONALD'S F25720,Roundup,-0.4,149.9,Posted,197,Roundups
+2023-05-10,AMZN MKTP US AMZN.COM/,Debit Card,-108.20,150.3,Posted,198,Fun Money
+2023-05-10,STEAM PURCHASE,Debit Card,-21.64,258.5,Posted,199,Fun Money
+2023-05-10,MCDONALD'S F25720,Debit Card,-10.60,280.14,Posted,200,Food
+2023-05-09,Roundup *MCDONALD'S F25720,Roundup,-0.46,290.74,Posted,201,Roundups
+2023-05-09,MCDONALD'S F25720,Debit Card,-8.54,291.2,Posted,202,Food
+2023-05-08,Roundup *PAYPAL *ITCH IO,Roundup,-0.34,299.74,Posted,203,Roundups
+2023-05-08,Roundup *ROSAS CAFE & TORTILLA,Roundup,-0.51,300.08,Posted,204,Roundups
+2023-05-08,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,300.59,Posted,205,Roundups
+2023-05-08,Roundup *PANERA BREAD #600925,Roundup,-0.88,300.97,Posted,206,Roundups
+2023-05-08,Roundup *PAPA JOHN'S #1781,Roundup,-0.53,301.85,Posted,207,Roundups
+2023-05-08,Roundup *DD *DOORDASH REDHOTBLU,Roundup,-0.72,302.38,Posted,208,Roundups
+2023-05-08,PAYPAL *ITCH IO,Debit Card,-6.66,303.1,Posted,209,Fun Money
+2023-05-08,ROSAS CAFE & TORTILLA,Debit Card,-10.49,309.76,Posted,210,Food
+2023-05-08,Roundup *WALMART.COM 8009666546,Roundup,-0.67,320.25,Posted,211,Roundups
+2023-05-08,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,320.92,Posted,212,Food
+2023-05-08,PANERA BREAD #600925,Debit Card,-7.12,330.54,Posted,213,Food
+2023-05-08,PAPA JOHN'S #1781,Debit Card,-19.47,337.66,Posted,214,Food
+2023-05-08,DD *DOORDASH REDHOTBLU,Debit Card,-40.28,357.13,Posted,215,Food
+2023-05-08,WALMART.COM 8009666546,Debit Card,-66.33,397.41,Posted,216,Groceries
+2023-05-07,Roundup *AMAZON.COM.PAYMENTS,Roundup,-0.89,463.74,Posted,217,Roundups
+2023-05-07,Roundup *BURGER KING #19060,Roundup,-0.88,464.63,Posted,218,Roundups
+2023-05-07,AMAZON.COM.PAYMENTS,Debit Card,-42.11,465.51,Posted,219,Fun Money
+2023-05-07,BURGER KING #19060,Debit Card,-7.12,507.62,Posted,220,Food
+2023-05-06,Roundup *PAYPAL *BANDCAMP,Roundup,-0.92,514.74,Posted,221,Roundups
+2023-05-06,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.92,515.66,Posted,222,Roundups
+2023-05-06,Roundup *MCDONALD'S F39330,Roundup,-0.43,516.58,Posted,223,Roundups
+2023-05-06,Roundup *MCDONALD'S F25720,Roundup,-0.4,517.01,Posted,224,Roundups
+2023-05-06,Roundup *MCDONALD'S F25720,Roundup,-0.44,517.41,Posted,225,Roundups
+2023-05-06,PAYPAL *BANDCAMP,Debit Card,-5.08,517.85,Posted,226,Music
+2023-05-06,ANDY'S FROZEN CUSTARD,Debit Card,-9.08,522.93,Posted,227,Food
+2023-05-06,MCDONALD'S F39330,Debit Card,-7.57,532.01,Posted,228,Food
+2023-05-06,MCDONALD'S F25720,Debit Card,-10.60,539.58,Posted,229,Food
+2023-05-06,MCDONALD'S F25720,Debit Card,-7.56,550.18,Posted,230,Food
+2023-05-05,Roundup *PAYPAL *MADHU,Roundup,-0.46,557.74,Posted,231,Roundups
+2023-05-05,Roundup *McDonalds 25720,Roundup,-0.57,558.2,Posted,232,Roundups
+2023-05-05,Roundup *CHIPOTLE ONLINE,Roundup,-0.24,558.77,Posted,233,Roundups
+2023-05-05,Roundup *MCDONALD'S F25720,Roundup,-0.45,559.01,Posted,234,Roundups
+2023-05-05,PAYPAL *MADHU,Debit Card,-34.54,559.46,Posted,235,Fun Money
+2023-05-05,McDonalds 25720,Debit Card,-9.43,594,Posted,236,Food
+2023-05-05,CHIPOTLE ONLINE,Debit Card,-16.76,603.43,Posted,237,Food
+2023-05-05,MCDONALD'S F25720,Debit Card,-11.55,620.19,Posted,238,Food
+2023-05-05,TD AMERITRADE,Direct Payment,-200,631.74,Posted,239,Investing
+2023-05-04,Roundup *QT 855 OUTSIDE,Roundup,-0.3,831.74,Posted,240,Roundups
+2023-05-04,QT 855 OUTSIDE,Debit Card,-42.70,832.04,Posted,241,Gas
+2023-05-04,Roundup *QT 855 OUTSIDE,Roundup,-0.42,874.74,Posted,242,Roundups
+2023-05-04,QT 855 OUTSIDE,Debit Card,-2.58,875.16,Posted,243,Gas
+2023-05-04,TLC,Direct Deposit,739.42,877.74,Posted,244,Income
+2023-05-04,Roundup *STEAMGAMES.COM 4259522,Roundup,-0.65,138.32,Posted,245,Fun Money
+2023-05-04,Roundup *BURGER KING #19060,Roundup,-0.84,138.97,Posted,246,Roundups
+2023-05-04,STEAMGAMES.COM 4259522,Debit Card,-7.35,139.81,Posted,247,Fun Money
+2023-05-04,BURGER KING #19060,Debit Card,-10.16,147.16,Posted,248,Food
+2023-05-03,Roundup *THE HOME DEPOT #6533,Roundup,-0.6,157.32,Posted,249,Roundups
+2023-05-03,THE HOME DEPOT #6533,Debit Card,-307.40,157.92,Posted,250,Fun Money
+2023-05-02,Roundup *WM SUPERC Wal-Mart Sup,Roundup,-0.83,465.32,Posted,251,Roundups
+2023-05-02,WM SUPERC Wal-Mart Sup,Debit Card,-11.17,466.15,Posted,252,Fun Money
+2023-05-01,Roundup *CVS/PHARM 02976--Mid C,Roundup,-0.51,477.32,Posted,253,Roundups
+2023-05-01,CVS/PHARM 02976--Mid C,Debit Card,-25.49,477.83,Posted,254,Medicine
+2023-05-01,PAYPAL,Direct Payment,-50,503.32,Posted,255,Credit
+2023-04-30,Interest earned,Interest Earned,0.23,553.32,Posted,256,Income
+2023-04-30,SoFi Rewards Redemption,Other,14.43,553.09,Posted,257,Income
+2023-04-29,Roundup *PROGRESSIVE *INSURANCE,Roundup,-0.67,538.66,Posted,258,Roundups
+2023-04-29,PROGRESSIVE *INSURANCE,Debit Card,-154.33,539.33,Posted,259,Car Money
+2023-04-28,DISCOVER,Direct Payment,-58,693.66,Posted,260,Credit
+2023-04-27,SoFi Rewards Redemption,Other,6.21,751.66,Posted,261,Income
+2023-04-27,TLC,Direct Deposit,739.42,745.45,Posted,262,Income
+2023-04-24,SoFi Rewards Redemption,Other,5.61,6.03,Posted,263,Income
+2023-04-20,SoFi Credit Card,Direct Payment,-689.00,0.42,Posted,264,Credit
+2023-04-20,To Savings - 1273,Withdrawal,-50,689.42,Posted,265,Savings
+2023-04-20,TLC,Direct Deposit,739.42,739.42,Posted,266,Income
+2023-04-20,PAYPAL *STEAM GAMES,Debit Card,-3.70,0,Posted,267,Fun Money
+2023-04-19,From savings - 1273,Overdraft,7.97,3.7,Posted,268,Money Transfer
+2023-04-19,KTA REBILLS,Debit Card,-49.2,-4.27,Posted,269,Travel
+2023-04-17,Roundup *AMZN Mktp US,Roundup,-0.09,44.93,Posted,270,Roundups
+2023-04-17,Roundup *McDonalds 25720,Roundup,-0.24,45.02,Posted,271,Roundups
+2023-04-17,Roundup *DD *DOORDASH REDHOTBLU,Roundup,-0.76,45.26,Posted,272,Roundups
+2023-04-17,AMZN Mktp US,Debit Card,-59.91,46.02,Posted,273,Fun Money
+2023-04-17,McDonalds 25720,Debit Card,-9.76,105.93,Posted,274,Food
+2023-04-17,DD *DOORDASH REDHOTBLU,Debit Card,-46.24,115.69,Posted,275,Food
+2023-04-16,CAPITAL ONE,Direct Payment,-47.52,161.93,Posted,276,Credit
+2023-04-16,Roundup *RAISING CANES 0087,Roundup,-0.27,209.45,Posted,277,Roundups
+2023-04-16,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,209.72,Posted,278,Roundups
+2023-04-16,RAISING CANES 0087,Debit Card,-9.73,210.1,Posted,279,Food
+2023-04-16,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,219.83,Posted,280,Food
+2023-04-15,Roundup *McDonalds 25720,Roundup,-0.24,229.45,Posted,281,Roundups
+2023-04-15,Roundup *CHIPOTLE ONLINE,Roundup,-0.35,229.69,Posted,282,Roundups
+2023-04-15,McDonalds 25720,Debit Card,-9.76,230.04,Posted,283,Food
+2023-04-15,CHIPOTLE ONLINE,Debit Card,-18.65,239.8,Posted,284,Food
+2023-04-14,SoFi Credit Card,Direct Payment,-500.00,258.45,Posted,285,Credit
+2023-04-14,STRIPE,Debit Card,98.48,758.45,Posted,286,Money Transfer
+2023-04-14,"Roundup *GROVER USA, INC.",Roundup,-0.05,659.97,Posted,287,Roundups
+2023-04-14,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,660.02,Posted,288,Roundups
+2023-04-14,Roundup *PEI WEI - 0244 HURST A,Roundup,-0.11,660.4,Posted,289,Roundups
+2023-04-14,"GROVER USA, INC.",Debit Card,-26.95,660.51,Posted,290,Fun Money
+2023-04-14,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,687.46,Posted,291,Food
+2023-04-14,PEI WEI - 0244 HURST A,Debit Card,-15.89,697.08,Posted,292,Food
+2023-04-13,Roundup *SAMS CLUB SAM'S Club,Roundup,-0.67,712.97,Posted,293,Roundups
+2023-04-13,SAMS CLUB SAM'S Club,Debit Card,-44.33,713.64,Posted,294,Gas
+2023-04-13,TLC,Direct Deposit,598.77,757.97,Posted,295,Income
+2023-04-13,SoFi Credit Card,Direct Payment,-50.00,159.2,Posted,296,Credit
+2023-04-13,Roundup *CKO*PATREON* MEMBERSHI,Roundup,-0.65,209.2,Posted,297,Roundups
+2023-04-13,Roundup *RAISING CANES 0087,Roundup,-0.27,209.85,Posted,298,Roundups
+2023-04-13,Roundup *FIREHOUSE SUBS 0400 EC,Roundup,-0.07,210.12,Posted,299,Roundups
+2023-04-13,Roundup *CHIPOTLE ONLINE,Roundup,-0.96,210.19,Posted,300,Roundups
+2023-04-13,CKO*PATREON* MEMBERSHI,Debit Card,-5.35,211.15,Posted,301,Subscriptions
+2023-04-13,RAISING CANES 0087,Debit Card,-9.73,216.5,Posted,302,Food
+2023-04-13,FIREHOUSE SUBS 0400 EC,Debit Card,-14.93,226.23,Posted,303,Food
+2023-04-13,CHIPOTLE ONLINE,Debit Card,-9.04,241.16,Posted,304,Food
+2023-04-13,PwP  aliexpress,Direct Payment,-2.91,250.2,Posted,305,Fun Money
+2023-04-12,Roundup *CHIPOTLE ONLINE,Roundup,-0.06,253.11,Posted,306,Roundups
+2023-04-12,HOC/PRICE ERRORS/BUDDY,Debit Card,-75.00,253.17,Posted,307,Subscriptions
+2023-04-12,CHIPOTLE ONLINE,Debit Card,-12.94,328.17,Posted,308,Food
+2023-04-11,Roundup *Wal-Mart Super Center,Roundup,-0.44,341.11,Posted,309,Roundups
+2023-04-11,Wal-Mart Super Center,Debit Card,-16.56,341.55,Posted,310,Fun Money
+2023-04-11,Roundup *STEAMGAMES.COM 4259522,Roundup,-0.95,358.11,Posted,311,Roundups
+2023-04-11,Roundup *ROSAS CAFE & TORTILLA,Roundup,-0.51,359.06,Posted,312,Roundups
+2023-04-11,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,359.57,Posted,313,Roundups
+2023-04-11,Roundup *PEI WEI - 0244 HURST A,Roundup,-0.11,359.95,Posted,314,Roundups
+2023-04-11,STEAMGAMES.COM 4259522,Debit Card,-27.05,360.06,Posted,315,Fun Money
+2023-04-11,ROSAS CAFE & TORTILLA,Debit Card,-10.49,387.11,Posted,316,Food
+2023-04-11,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,397.6,Posted,317,Food
+2023-04-11,PEI WEI - 0244 HURST A,Debit Card,-15.89,407.22,Posted,318,Food
+2023-04-11,USPS PO BOXES ONLINE,Debit Card,124.00,423.11,Posted,319,Random
+2023-04-10,Cash back - Burning Rice - Hurst,Bonus,0.86,299.11,Posted,320,Income
+2023-04-10,Roundup *ROBINHOOD SECURITIES,Roundup,-0.11,298.25,Posted,321,Roundups
+2023-04-10,Roundup *CHIPOTLE ONLINE,Roundup,-0.64,298.36,Posted,322,Roundups
+2023-04-10,Roundup *PIZZA HUT 034482,Roundup,-0.86,299,Posted,323,Roundups
+2023-04-10,ROBINHOOD SECURITIES,Debit Card,-98.89,299.86,Posted,324,Investing
+2024-04-10,CHIPOTLE ONLINE,Debit Card,-9.36,398.75,Posted,325,Food
+2023-04-10,PIZZA HUT 034482,Debit Card,-14.14,408.11,Posted,326,Food
+2023-04-09,Roundup *PANERA BREAD #600925,Roundup,-0.88,422.25,Posted,327,Roundups
+2023-04-09,PANERA BREAD #600925,Debit Card,-7.12,423.13,Posted,328,Food
+2023-04-08,Roundup *Staples Inc,Roundup,-0.28,430.25,Posted,329,Roundups
+2023-04-08,Roundup *ROSAS CAFE & TORTILLA,Roundup,-0.51,430.53,Posted,330,Roundups
+2023-04-08,Roundup *TST* BURNING RICE HURS,Roundup,-0.39,431.04,Posted,331,Roundups
+2023-04-08,USPS PO BOXES ONLINE,Debit Card,-124.00,431.43,Posted,332,Random
+2023-04-08,GAIN CAPITAL GROUP,Debit Card,-100.00,555.43,Posted,333,Investing
+2023-04-08,Staples Inc,Debit Card,-0.28,655.43,Posted,334,Fun Money
+2023-04-08,ROSAS CAFE & TORTILLA,Debit Card,-10.49,655.71,Posted,335,Food
+2023-04-08,TST* BURNING RICE HURS,Debit Card,-21.61,666.2,Posted,336,Food
+2023-04-08,GAIN CAPITAL GROUP,Debit Card,100.00,687.81,Posted,337,Investing
+2023-04-07,Roundup *RAISING CANES 0087,Roundup,-0.27,587.81,Posted,338,Roundups
+2023-04-07,RAISING CANES 0087,Debit Card,-9.73,588.08,Posted,339,Food
+2023-04-06,Roundup *SAMS CLUB SAM'S Club,Roundup,-0.04,597.81,Posted,340,Roundups
+2023-04-06,SAMS CLUB SAM'S Club,Debit Card,-40.96,597.85,Posted,341,Gas
+2023-04-06,To SoFi Credit Vault,Withdrawal,-40,638.81,Posted,342,Money Transfer
+2023-04-06,TLC,Direct Deposit,638.81,678.81,Posted,343,Income
+2023-04-06,From SoFi Credit Vault,Deposit,20,40,Posted,344,Money Transfer
+2023-04-06,From SoFi Credit Vault,Deposit,20,20,Posted,345,Money Transfer
+2023-04-06,From savings - 1273,Overdraft,16.45,0,Posted,346,Money Transfer
+2023-04-06,CHIPOTLE ONLINE,Debit Card,-16.45,-16.45,Posted,347,Food
+2023-04-05,From savings - 1273,Overdraft,9.73,0,Posted,348,Money Transfer
+2023-04-05,RAISING CANES 0087,Debit Card,-9.73,-9.73,Posted,349,Food
+2023-04-05,From savings - 1273,Overdraft,10.27,0,Posted,350,Money Transfer
+2023-04-05,SLIM CHICKENS 16905,Debit Card,-10.27,-10.27,Posted,351,Food
+2023-04-04,From savings - 1273,Overdraft,10.49,0,Posted,352,Money Transfer
+2023-04-04,ROSAS CAFE & TORTILLA,Debit Card,-10.49,-10.49,Posted,353,Food
+2023-04-04,From savings - 1273,Overdraft,4.47,0,Posted,354,Money Transfer
+2023-04-04,DUNKIN #345830,Debit Card,-4.47,-4.47,Posted,355,Food
+2023-04-04,From savings - 1273,Overdraft,13.31,0,Posted,356,Money Transfer
+2023-04-04,CHIPOTLE ONLINE,Debit Card,-13.31,-13.31,Posted,357,Food
+2023-04-04,From savings - 1273,Overdraft,2.81,0,Posted,358,Money Transfer
+2023-04-04,PAYPAL *OLIVE GARDEN 0,Debit Card,-21.52,-2.81,Posted,359,Food
+2023-04-03,STEAMGAMES.COM 4259522,Debit Card,-2.59,18.71,Posted,360,Fun Money
+2023-04-03,From savings - 1273,Overdraft,53.17,21.3,Posted,361,Money Transfer
+2023-04-03,DISCOVER,Direct Payment,-53.17,-31.87,Posted,362,Credit
+2023-04-03,From savings - 1273,Overdraft,41,21.3,Posted,363,Money Transfer
+2023-04-03,PAYPAL,Direct Payment,-41,-19.7,Posted,364,Credit
+2023-04-02,From savings - 1273,Overdraft,0.69,21.3,Posted,365,Money Transfer
+2023-04-02,Roundup *CHIPOTLE ONLINE,Roundup,-0.69,20.61,Posted,366,Roundups
+2023-04-02,From savings - 1273,Overdraft,0.43,21.3,Posted,367,Money Transfer
+2023-04-02,Roundup *DAIRY QUEEN #45989,Roundup,-0.43,20.87,Posted,368,Roundups
+2023-04-02,From savings - 1273,Overdraft,258.79,21.3,Posted,369,Money Transfer
+2023-04-02,BIAHEZA COURSE,Debit Card,-294,-237.49,Posted,370,Fun Money
+2023-04-02,From savings - 1273,Overdraft,12.31,56.51,Posted,371,Money Transfer
+2023-04-02,CHIPOTLE ONLINE,Debit Card,-13.31,44.2,Posted,372,Food
+2023-04-02,From savings - 1273,Overdraft,7.57,57.51,Posted,373,Money Transfer
+2023-04-02,DAIRY QUEEN #45989,Debit Card,-7.57,49.94,Posted,374,Food
+2023-04-01,From savings - 1273,Overdraft,0.78,57.51,Posted,375,Money Transfer
+2023-04-01,Roundup *BEST BUY #55,Roundup,-0.78,56.73,Posted,376,Roundups
+2023-04-01,From savings - 1273,Overdraft,5.4,57.51,Posted,377,Money Transfer
+2023-04-01,BEST BUY #55,Debit Card,-16.22,52.11,Posted,378,Fun Money
+2023-04-01,Roundup *Wal-Mart Super Center,Roundup,-0.66,68.33,Posted,379,Roundups
+2023-04-01,Wal-Mart Super Center,Debit Card,-37.34,68.99,Posted,380,Groceries
+2023-04-01,Roundup *PROGRESSIVE *INSURANCE,Roundup,-0.67,106.33,Posted,381,Roundups
+2023-04-01,Roundup *ANDY'S FROZEN CUSTARD,Roundup,-0.38,107,Posted,382,Roundups
+2023-04-01,Roundup *STARBUCKS STORE 4919,Roundup,-0.88,107.38,Posted,383,Roundups
+2023-04-01,Roundup *CHIPOTLE ONLINE,Roundup,-0.06,108.26,Posted,384,Roundups
+2023-04-01,Roundup *TST* HAWAIIAN BROS-HUR,Roundup,-0.44,108.32,Posted,385,Roundups
+2023-04-01,PROGRESSIVE *INSURANCE,Debit Card,-154.33,108.76,Posted,386,Car Money
+2023-04-01,ANDY'S FROZEN CUSTARD,Debit Card,-9.62,263.09,Posted,387,Food
+2023-04-01,STARBUCKS STORE 4919,Debit Card,-7.12,272.71,Posted,388,Food
+2023-04-01,CHIPOTLE ONLINE,Debit Card,-12.94,279.83,Posted,389,Food
+2023-04-01,TST* HAWAIIAN BROS-HUR,Debit Card,-14.56,292.77,Posted,390,Food
